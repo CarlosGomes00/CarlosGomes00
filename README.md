@@ -1,8 +1,8 @@
 ## Hellooo 👋
 
-- 🔭 Atualmente trabalho com Python e R
-- 🌱 Estudo Bioinformática
-- 👯 Tenho interesse em aprofundar o meu conhecimento em IA
+- Atualmente trabalho com Python e R
+- Estudo Bioinformática
+- Tenho interesse em aprofundar o meu conhecimento em IA
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
