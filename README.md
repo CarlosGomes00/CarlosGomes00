@@ -5,7 +5,7 @@
     <th>Frameworks and Tools</th>
   </tr>
   <tr>
-    <td><b><a href="[https://github.com/CarlosGomes00/Transformer-Based-Models-for-Chemical-Fingerprint-Prediction]">Transformer Based Models for Chemical Fingerprint Prediction</a></b><br>Prediction of chemical fingerprints using an encoder Transformer I made myself.</td>
+    <td><b><a href="[https://github.com/CarlosGomes00/Transformer-Based-Models-for-Chemical-Fingerprint-Prediction]">Transformer Based Models for Chemical Fingerprint Prediction</a></b><br>Development of an Encoder Transformer designed for high dimensional feature extraction of chemical compounds.</td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </td>
