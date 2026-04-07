@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/CarlosGomes00/Deep-Learning-Frameworks-Benchmark">Deep Learning Frameworks Benchmark</a></b><br>Benchmarking training performance and execution paradigms across JAX, PyTorch, and TensorFlow.</td>
+    <td><b><a href="[https://github.com/CarlosGomes00/Deep-Learning-Frameworks-Benchmark">Deep Learning Frameworks Benchmark</a></b><br>Benchmarking training performance and execution paradigms across JAX, PyTorch, and TensorFlow.</td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </td>
