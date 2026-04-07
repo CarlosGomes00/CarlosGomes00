@@ -5,7 +5,7 @@
     <th>Frameworks and Tools</th>
   </tr>
   <tr>
-    <td><b><a href="[https://github.com/CarlosGomes00/Transformer-Based-Models-for-Chemical-Fingerprint-Prediction]">Transformer Based Models for Chemical Fingerprint Prediction</a></b><br>Development of an Encoder Transformer designed for high dimensional feature extraction of chemical compounds.</td>
+    <td><b><a href="https://github.com/CarlosGomes00/Transformer-Based-Models-for-Chemical-Fingerprint-Prediction">Transformer Based Models for Chemical Fingerprint Prediction</a></b><br>Development of an Encoder Transformer designed for high dimensional feature extraction of chemical compounds.</td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </td>
@@ -16,7 +16,7 @@
     </td>
   </tr>
   <tr>
-    <td><b><a href="[https://github.com/CarlosGomes00/blockchain-explorer]">Blockchain Explorer</a></b><br>Exploring blockchain and smart contracts with Python and Solidity.</td>
+    <td><b><a href="https://github.com/CarlosGomes00/blockchain-explorer">Blockchain Explorer</a></b><br>Exploring blockchain and smart contracts with Python and Solidity.</td>
     <td>
       <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -27,7 +27,7 @@
     </td>
   </tr>
   <tr>
-    <td><b><a href="[https://github.com/CarlosGomes00/Bioinformatics-Project]">Deep Learning tools for protein structure prediction</a></b><br>Benchmarking of Deep Learning models for predicting the antibody structure of Influenza's Hemagglutinin.</td>
+    <td><b><a href="https://github.com/CarlosGomes00/Bioinformatics-Project">Deep Learning tools for protein structure prediction</a></b><br>Benchmarking of Deep Learning models for predicting the antibody structure of Influenza's Hemagglutinin.</td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </td>
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td><b><a href="[https://github.com/CarlosGomes00/BigData]">Big Data Analytics</a></b><br>First steps in exploring Big Data tools.</td>
+    <td><b><a href="https://github.com/CarlosGomes00/BigData">Big Data Analytics</a></b><br>First steps in exploring Big Data tools.</td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -44,6 +44,18 @@
     <td>
       <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
       <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/CarlosGomes00/Deep-Learning-Frameworks-Benchmark">Deep Learning Frameworks Benchmark</a></b><br>Benchmarking training performance and execution paradigms across JAX, PyTorch, and TensorFlow.</td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+      <img src="https://img.shields.io/badge/JAX-323330?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
 </table>
