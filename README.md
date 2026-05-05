@@ -37,15 +37,6 @@
     </td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/CarlosGomes00/Bioinformatics-Project">Deep Learning tools for protein structure prediction</a></b><br>Benchmarking of Deep Learning models for predicting the antibody structure of Influenza's Hemagglutinin.</td>
-    <td>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PyMol-339933?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
     <td><b><a href="https://github.com/CarlosGomes00/BigData">Big Data Analytics</a></b><br>First steps in exploring Big Data tools.</td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
