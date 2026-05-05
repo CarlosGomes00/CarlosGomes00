@@ -21,8 +21,7 @@
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=orange" />
       <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
     </td>
   </tr>  
