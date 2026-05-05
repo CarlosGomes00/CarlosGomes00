@@ -16,7 +16,7 @@
     </td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/CarlosGomes00/Jarvis">Jarvis: Autonomous Local AI Agent</a></b><br>Agentic AI system featuring LangChain/LangGraph orchestration and local LLMs via Ollama.</td>
+    <td><b><a href="https://github.com/CarlosGomes00/crazy_jarvis">Jarvis: Autonomous Local AI Agent</a></b><br>Agentic AI system featuring LangChain/LangGraph orchestration and local LLMs via Ollama.</td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </td>
