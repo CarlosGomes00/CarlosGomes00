@@ -16,6 +16,17 @@
     </td>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/CarlosGomes00/Jarvis">Jarvis: Autonomous Local AI Agent</a></b><br>Agentic AI system featuring LangChain/LangGraph orchestration and local LLMs via Ollama.</td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+    </td>
+  </tr>  
+  <tr>
     <td><b><a href="https://github.com/CarlosGomes00/blockchain-explorer">Blockchain Explorer</a></b><br>Exploring blockchain and smart contracts with Python and Solidity.</td>
     <td>
       <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
